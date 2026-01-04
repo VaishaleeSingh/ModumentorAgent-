@@ -46,6 +46,23 @@ def initialize_agent():
         agent = None
         return False
 
+@app.route('/', methods=['GET'])
+def root():
+    """Root endpoint - redirects to health check"""
+    return jsonify({
+        'service': 'modumentor-agentic-server',
+        'status': 'running',
+        'endpoints': {
+            'health': '/health',
+            'chat': '/api/chat',
+            'clear': '/api/clear',
+            'help': '/api/help',
+            'analyze': '/api/analyze',
+            'tools': '/api/tools'
+        },
+        'timestamp': datetime.now().isoformat()
+    })
+
 @app.route('/health', methods=['GET'])
 def health_check():
     """Health check endpoint"""
