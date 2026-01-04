@@ -1,0 +1,64 @@
+{
+  "test-user": {
+    "user_id": "test-user",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello, this is a test message",
+        "timestamp": 1754100975.6290739,
+        "user_id": "test-user"
+      },
+      {
+        "role": "assistant",
+        "content": "🔍 **Search Results for: Hello, this is a test message**\n\n💡 **Quick Answer:**\n1. **Text scams: Why you shouldn't answer 'Hi, How Are ... - Bitdefender**\n\n📄 **Search Results:**\n🔍 **Professional Analysis: hello, this test message**\n\n💡 **Executive Summary:**\nRandom \"Hello\" text messages are often phishing scams. Responding can reveal your phone number is active for further scams. Ignore these messages.\n\n📊 **Key Information Sources:**\n\n📰 **Recent News & Updates:**\n1. **Text scams: Why you shouldn't answer 'Hi, How Are ... - Bitdefender**\n   📝 Responding to an unsolicited text message tells scammers that your phone number is active, allowing them to target you with scams and phishing attempt...\n   🔗 **[Visit Source](https://www.bitdefender.com/en-us/blog/hotforsecurity/hi-how-are-you-text-message-scams)**\n\n\n\n💼 **Professional Insights:**\n• **General Information:** This is a general knowledge search\n• **Source Evaluation:** Consider the credibility of information sources\n• **Timeliness:** Check the date of information for relevance\n\n🔍 **Next Steps:**\n• Click the provided links for detailed information\n• Verify information across multiple sources\n• Check for the mos\n\n... (results truncated due to length)\n\n💡 *Note: This is a direct summary of search results. For enhanced analysis, please try again later when API quota resets.*",
+        "timestamp": 1754100983.176924,
+        "user_id": "test-user"
+      },
+      {
+        "role": "user",
+        "content": "Hello, this is a test message",
+        "timestamp": 1754101011.271727,
+        "user_id": "test-user"
+      },
+      {
+        "role": "assistant",
+        "content": "🔍 **Analyzed web search results**\n\nHello!  You sent a test message: \"Hello, this is a test message\".  While this message itself is innocuous,  my search indicates that unsolicited \"Hello\" text messages are frequently the first step in phishing scams.\n\nThe key takeaway is this:  **Don't respond to unsolicited \"Hello\" texts unless you know the sender.**  Responding confirms your number is active and could lead to further scams or unwanted communication.\n\nMy search results (sourced from Bitdefender and other sources) highlight that scammers use these initial greetings to gauge whether your number is active before sending more targeted and potentially harmful messages.  They might try to trick you into clicking malicious links, sharing personal information, or installing malware.\n\nTherefore, if you received this \"Hello\" text unexpectedly, the safest course of action is to simply ignore it.  Do not reply.\n\nTo summarize: Your test message, while harmless in itself, highlighted a common phishing tactic.  Staying vigilant and avoiding responses to unknown numbers is crucial in protecting your online security. 😊",
+        "timestamp": 1754101014.535868,
+        "user_id": "test-user"
+      },
+      {
+        "role": "user",
+        "content": "Hello from Node.js test",
+        "timestamp": 1754101014.576858,
+        "user_id": "test-user"
+      },
+      {
+        "role": "assistant",
+        "content": "🔍 **Search Results for: Hello from Node.js test**\n\n📄 **Search Results:**\n🔍 **Professional Analysis: hello from node.js test**\n\n💡 **Executive Summary:**\nTo test Node.js, create a simple \"Hello World\" server by running `node server.js` after saving the code in a `server.js` file. Node.js uses the `http` module for this. This basic example demonstrates Node.js's asynchronous capabilities.\n\n📊 **Key Information Sources:**\n\n🔗 **Additional Resources:**\n1. **plesk/node-hello-world: A simple app to test Node.js support. - GitHub**\n   📝 A simple app to test Node.js support. Contribute to plesk/node-hello-world development by creating an account on GitHub.\n   🔗 **[Visit Source](https://github.com/plesk/node-hello-world)**\n\n2. **Node.js tutorial in Visual Studio Code**\n   📝 Running Hello World. It's simple to run app.js with Node.js. From a terminal, just type: node app.js. Copy. You should see \"Hello World\" output to the...\n   🔗 **[Visit Source](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)**\n\n3. **Node.js Get Started - W3Schools**\n   📝 Once you have inst\n\n... (results truncated due to length)\n\n💡 *Note: This is a direct summary of search results. For enhanced analysis, please try again later when API quota resets.*",
+        "timestamp": 1754101019.3471081,
+        "user_id": "test-user"
+      }
+    ],
+    "created_at": 1754100975.62706,
+    "last_updated": 1754101019.347117
+  },
+  "web-user": {
+    "user_id": "web-user",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi",
+        "timestamp": 1767520473.9756277,
+        "user_id": "web-user"
+      },
+      {
+        "role": "assistant",
+        "content": "🔍 **Professional Analysis: hi**\n\n💡 **Executive Summary:**\n\"Hi\" is a casual greeting, while \"high\" refers to vertical height or intensity. They sound similar but have different meanings.\n\n📊 **Key Information Sources:**\n\n📚 **Reference Information:**\n1. **HI Definition & Meaning**\n   📝 ✨📕 The NEW Collegiate Dictionary, 12th Edition  Over 5,000 words added — Learn More! # hi. just called to say hi. ## Examples of *hi* in a Sentence. —...\n   🔗 **[Visit Source](https://www.merriam-webster.com/dictionary/hi)**\n\n2. **HI Definition & Meaning**\n   📝 # hi. \"Collins English Dictionary — Complete & Unabridged\" 2012 Digital Edition © William Collins Sons & Co. Ltd. 1. an informal word for hello. \"Coll...\n   🔗 **[Visit Source](https://www.dictionary.com/browse/hi)**\n\n\n\n💼 **Professional Insights:**\n• **General Information:** This is a general knowledge search\n• **Source Evaluation:** Consider the credibility of information sources\n• **Timeliness:** Check the date of information for relevance\n\n🔍 **Next Steps:**\n• Click the provided links for detailed information\n• Verify information across multiple sources\n• Check for the most recent updates on official websites\n\n📊 **Data Source:** Tavily Search API\n",
+        "timestamp": 1767520478.281111,
+        "user_id": "web-user"
+      }
+    ],
+    "created_at": 1767520473.974108,
+    "last_updated": 1767520478.281121
+  }
+}
